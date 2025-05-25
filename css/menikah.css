@@ -29,11 +29,11 @@ html {
 }
 
 .navbar-item.is-active{
-  border-bottom: 2px solid #996E6D;
+  border-bottom: 2px solid #7B5E57;
 }
 
 .a.navbar-item{
-  font-color: #996E6D;
+  font-color: #7B5E57;
 }
 
 
@@ -102,15 +102,15 @@ html {
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li.is-active a {
-  border-bottom: 2px solid #996E6D;
+  border-bottom: 2px solid #7B5E57;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li a {
-  color: #996E6D;
+  color: #7B5E57;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li a:hover {
-  color: #996E6D;
+  color: #7B5E57;
   transition: all .2s ease-in-out;
   border-bottom: 2px solid #c28285;
 }
@@ -131,12 +131,12 @@ html {
 }
 
 .main-content .section-dark {
-  background-color: #F4E2E2;
+  background-color: #F0E6DA;
   padding: 80px 40px;
 }
 
 .main-content .section-darker {
-  background-color: #EDD2D1;
+  background-color: #EADDC8;
   padding: 80px 40px;
 }
 
@@ -157,9 +157,9 @@ html {
 }
 
 .main-content .section-dark.resume button {
-  border: 2px solid #996E6D;
+  border: 2px solid #7B5E57;
   background: white;
-  color: #996E6D;
+  color: #7B5E57;
   height: 50px;
   width: 250px;
   font-size: 1rem;
@@ -167,7 +167,7 @@ html {
 }
 
 .main-content .section-dark.resume .fa-download {
-  color: #996E6D;
+  color: #7B5E57;
 }
 
 .main-content .section-dark.my-work {
@@ -273,7 +273,7 @@ html {
 
 .main-content .section-color.pertanyaan {
   padding: 100px;
-  background-color: #996E6D;
+  background-color: #7B5E57;
   color: white;
 }
 
@@ -290,7 +290,7 @@ html {
 .main-content .section-title {
   font-family: 'Raleway', sans-serif;
   font-weight: 900;
-  color: #996E6D;
+  color: #7B5E57;
   text-transform: uppercase;
   font-size: 1.5rem;
   letter-spacing: 0px;
@@ -299,7 +299,7 @@ html {
 
 .nama-lengkap {
   font-family: 'Rouge Script', sans-serif;
-  color: #996E6D;
+  color: #7B5E57;
   font-size: 3.5rem;
   letter-spacing: 0px;
   padding-bottom: 6px;
@@ -309,7 +309,7 @@ html {
 .ampersand {
 font-size: 5rem;
 font-family: 'Rouge Script', sans-serif;
-color: #996E6D;
+color: #7B5E57;
 line-height: 5rem;
 display: inline-block;
 vertical-align: middle;
@@ -406,7 +406,7 @@ vertical-align: middle;
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #996E6D;
+  background-color: #7B5E57;
   color: white;
   cursor: pointer;
   border-radius: 50%;
@@ -419,18 +419,18 @@ vertical-align: middle;
 }
 
 #toTop:hover {
-  background-color: #BC8887;
+  background-color: #C19A6B;
 }
 
 ::-webkit-scrollbar {
   width: 8px;
-  background-color: #F4E2E2;
+  background-color: #F0E6DA;
 }
 
 ::-webkit-scrollbar-thumb {
-  box-shadow: inset 0 0 6px #996E6D;
-  -webkit-box-shadow: inset 0 0 6px #996E6D;
-  background-color: #BC8887;
+  box-shadow: inset 0 0 6px #7B5E57;
+  -webkit-box-shadow: inset 0 0 6px #7B5E57;
+  background-color: #C19A6B;
 }
 
 body.preloader-site {
@@ -440,7 +440,7 @@ body.preloader-site {
 .preloader-wrapper {
   height: 100%;
   width: 100%;
-  background: #D8A9A8;
+  background: #A47149;
   position: fixed;
   top: 0;
   left: 0;
@@ -500,12 +500,12 @@ body.preloader-site {
 }
 
 .btn-cta {
-  background-color: #996E6D;
+  background-color: #7B5E57;
   width:  210px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
-  border: 2px solid #996E6D;
+  border: 2px solid #7B5E57;
   border-radius: 10px;
   align-items: center;
   margin: 1rem;
@@ -553,11 +553,11 @@ body.preloader-site {
 {color:ghostwhite}
 
 
-.dusty-pink {color: #D8A9A8}
-.dusty-pink-lighter {color: #EDD2D1}
-.dusty-pink-lightest {color: #F4E2E2}
-.dusty-pink-darker {color: #BC8887}
-.dusty-pink-darkest {color: #996E6D}
+.dusty-pink {color: #A47149}
+.dusty-pink-lighter {color: #EADDC8}
+.dusty-pink-lightest {color: #F0E6DA}
+.dusty-pink-darker {color: #C19A6B}
+.dusty-pink-darkest {color: #7B5E57}
 
 .tile {
   border-radius: 10px;
@@ -643,7 +643,7 @@ body.preloader-site {
 }
 
 .instagram {
-  color: #996E6D;
+  color: #7B5E57;
   font-size: 1.25rem;
   font-weight: 900;
   margin-top: 0.5rem;
